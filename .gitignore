@@ -72,3 +72,44 @@ run.sh
 .scannerwork/
 CuraEngine
 
+# output\lib\uranium\plugins
+plugins/ConsoleLogger/
+plugins/FileHandlers/
+plugins/FileLogger/
+plugins/LocalContainerProvider/
+plugins/LocalFileOutputDevice/
+plugins/Tools/
+plugins/UpdateChecker/
+plugins/Views/
+
+# output\share\cura\resources
+# AUTO
+
+# output\share\uranium\resources
+resources/bundled_packages/uranium.json
+resources/i18n/de_DE/uranium.po
+resources/i18n/es_ES/uranium.po
+resources/i18n/fi_FI/uranium.po
+resources/i18n/fr_FR/uranium.po
+resources/i18n/hu_HU/
+resources/i18n/it_IT/uranium.po
+resources/i18n/ja_JP/uranium.po
+resources/i18n/ko_KR/uranium.po
+resources/i18n/nl_NL/uranium.po
+resources/i18n/pl_PL/uranium.po
+resources/i18n/pt_BR/uranium.po
+resources/i18n/pt_PT/uranium.po
+resources/i18n/ru_RU/uranium.po
+resources/i18n/tr_TR/uranium.po
+resources/i18n/uranium.pot
+resources/i18n/zh_CN/uranium.po
+resources/i18n/zh_TW/uranium.po
+resources/shaders/color.shader
+resources/shaders/composite.shader
+resources/shaders/default.shader
+resources/shaders/object.shader
+resources/shaders/platform.shader
+resources/shaders/selection.shader
+resources/shaders/toolhandle.shader
+
+
