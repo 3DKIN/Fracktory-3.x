@@ -37,7 +37,7 @@ UM.Dialog
         width: (base.minimumWidth * 0.85) | 0
         height: (width * (1/4.25)) | 0
 
-        source: UM.Theme.getImage("logo")
+        source: UM.Theme.getImage("fracktory-logo")
 
         sourceSize.width: width
         sourceSize.height: height

@@ -53,7 +53,7 @@ Rectangle
         anchors.leftMargin: UM.Theme.getSize("default_margin").width
         anchors.verticalCenter: parent.verticalCenter
 
-        source: UM.Theme.getImage("logo");
+        source: UM.Theme.getImage("fracktory-logo");
         width: UM.Theme.getSize("logo").width;
         height: UM.Theme.getSize("logo").height;
 
