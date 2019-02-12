@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "id": "julia_pro_single",
+    "name": "Fracktal Works Julia Pro Single",
+    "inherits": "julia_intermediate",
+    "metadata": {
+        "category": "Julia Pro Series"
+    },
+    "overrides": {
+        "machine_name": { "default_value": "Julia Pro Single" },
+        "machine_width": { "default_value": 400 },
+        "machine_height": { "default_value": 400 },
+        "machine_depth": { "default_value": 395 }
+    }
+}

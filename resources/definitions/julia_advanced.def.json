@@ -1,0 +1,9 @@
+{
+    "version": 2,
+    "id": "julia_advanced",
+    "name": "Fracktal Works Julia Advanced",
+    "inherits": "julia_intermediate",
+    "overrides": {
+        "machine_name": { "default_value": "Julia Advanced" }
+    }
+}

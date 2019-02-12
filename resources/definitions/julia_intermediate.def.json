@@ -1,0 +1,10 @@
+{
+    "version": 2,
+    "id": "julia_intermediate",
+    "name": "Fracktal Works Julia Intermediate",
+    "inherits": "julia_basic",
+    "overrides": {
+        "machine_heated_bed": { "default_value": true },
+        "machine_name": { "default_value": "Julia Intermediate" }
+    }
+}

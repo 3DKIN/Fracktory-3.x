@@ -1,0 +1,12 @@
+{
+    "version": 2,
+    "id": "julia_extended",
+    "name": "Fracktal Works Julia Extended",
+    "inherits": "julia_intermediate",
+    "overrides": {
+        "machine_name": { "default_value": "Julia Extended" },
+        "machine_width": { "default_value": 250 },
+        "machine_height": { "default_value": 305 },
+        "machine_depth": { "default_value": 250 }
+    }
+}
