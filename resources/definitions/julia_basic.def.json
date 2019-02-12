@@ -1,7 +1,7 @@
 {
     "version": 2,
     "id": "julia_basic",
-    "name": "Fracktal Works Julia Basic",
+    "name": "Julia Basic",
     "inherits": "fdmprinter",
     "metadata": {
         "author": "Harsha Alva",
@@ -12,18 +12,19 @@
         "has_machine_materials": false,
         "has_machine_quality": false,
         "preferred_quality_type": "normal",
-        "has_variants": true,
+        "has_variants": false,
         "variants_name": "Nozzle",
         "preferred_variant_name": "0.4",
         "machine_extruder_trains": {
-            "0": "julia_extruder_0"
+            "0": "julia_basic_extruder_0"
         },
         "visible": true
     },
     "overrides": {
+        "machine_extruder_count": { "default_value": 1 },
+        "machine_heated_bed": { "default_value": false },
         "machine_name": { "default_value": "Julia Basic" },
         "machine_width": { "default_value": 200 },
-        "machine_heated_bed": { "default_value": false },
         "machine_height": { "default_value": 210 },
         "machine_depth": { "default_value": 200 },
         "machine_gcode_flavor": { "default_value": "RepRap (Marlin/Sprinter)" },
